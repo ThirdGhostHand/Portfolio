@@ -1,0 +1,19 @@
+.MainProjects {
+  background-image: url('../images/alejandra-coral-63376.jpg');
+  height: 90vh;
+  background-size: cover;
+  background-position: center bottom;
+  padding: 50px;
+  overflow: hidden;
+}
+
+.slider {
+  height: 80vh;
+  text-align: center;
+}
+.dots {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  margin-right: -50%;
+}

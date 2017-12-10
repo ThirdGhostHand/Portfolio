@@ -1,0 +1,29 @@
+@media (max-width: 750px) {
+  .InfoWrapper {
+    flex-flow: column;
+  }
+  .InfoPicture {
+    height: 25vh;
+    border-radius: 50px;
+  }
+}
+.InfoWrapper {
+  padding: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.About {
+  width: 20vw;
+}
+.InfoPicture {
+  height: 50vh;
+  border-radius: 50px;
+}
+.Info {
+  width: 20vw;
+  color: black;
+}
+ul {
+  padding-left: 2vh;
+}
