@@ -86,7 +86,7 @@ class Footer extends React.Component {
           <h3>Contact</h3>
           <a
             className="contacts"
-            href="mailto:cody@pardi.net?Subject=Macaroni%20is%20the%20finest."
+            href="mailto:pcpportfolio@outlook.com?Subject=Macaroni%20is%20the%20finest."
             target="_top"
           >
             Email
